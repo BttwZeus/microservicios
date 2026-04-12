@@ -1,4 +1,4 @@
-Proyecto de Microservicios - Zeus Aguirre
+Proyecto de Microservicios
 Nombre: Zeus Aguirre
 
 Carrera: Ingeniería de Software (6to Semestre)
